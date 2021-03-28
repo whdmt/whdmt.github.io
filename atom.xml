@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://whdmt.github.io</id>
     <title>芜湖敦睦堂</title>
-    <updated>2021-03-28T11:41:54.191Z</updated>
+    <updated>2021-03-28T11:45:12.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://whdmt.github.io"/>
     <link rel="self" href="https://whdmt.github.io/atom.xml"/>
@@ -17,7 +17,8 @@
         <link href="https://whdmt.github.io/post/cang-shu-mu-lu/">
         </link>
         <updated>2021-03-28T11:41:06.000Z</updated>
-        <content type="html"><![CDATA[<iframe id="content-body" scrolling="no" frameborder="0" src="preview.html?id=d5e2b5b97fb9dc7fe3037f0e29f5c8e3&amp;type=note&amp;fid=WEBa146a9d1a33de24744be54e3e815c879" style="min-height: 450px; height: 697px;"></iframe>]]></content>
+        <content type="html"><![CDATA[<iframe id="content-body" scrolling="no" frameborder="0" src="https://note.youdao.com/ynoteshare1/preview.html?id=d5e2b5b97fb9dc7fe3037f0e29f5c8e3&type=note&fid=WEBa146a9d1a33de24744be54e3e815c879" style="min-height: 450px; height: 697px;"></iframe>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
